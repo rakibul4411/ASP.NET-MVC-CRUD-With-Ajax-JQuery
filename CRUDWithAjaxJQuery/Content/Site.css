@@ -1,0 +1,55 @@
+﻿body {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-top:0px!important;
+    /*background-color:#f1f1f1;*/
+}
+
+/* Set width on the form input elements since they're 100% wide by default */
+input,
+select,
+textarea {
+    max-width: 300px;
+}
+h3 {
+    background-color: gainsboro;
+    color: black;
+    font-weight: bolder;
+    font-family: 'Bell MT';
+    height: 35px;
+    text-align: left;
+    padding-top: 5px;
+    padding-left: 2px;
+}
+h2 {
+    background-color: gainsboro;
+    color: black;
+    font-weight: bolder;
+    font-family: 'Bell MT';
+    height: 60px;
+    text-align: center;
+    padding-top: 15px;
+}
+label:after {
+    content: '*';
+    color: red;
+}
+.tblcusrowID:after {
+    content:none!important;
+}
+
+.side-menu{
+    font-weight:bold;
+    font-size: 18px;
+    background-color:#F1F1F1;
+    height: 200px;
+    color:black;
+    font-family:'Bell MT';
+}
+.side-menu > ul {
+    list-style-type:none;
+    margin:0px!important;
+    padding:0px!important;
+}
+.side-menu > ul > li > a {
+   color: black;
+ }

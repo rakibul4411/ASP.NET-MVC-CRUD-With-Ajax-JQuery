@@ -1,0 +1,80 @@
+﻿
+<div class="container">
+    <div class="row">
+        <div class="col-md-12 col-lg-12">
+            <div class="col-md-12 col-lg-12">
+                <h3>Customer Wise Bonus Rate</h3>
+            </div>
+            <div class="col-md-3 col-lg-3">
+                <form>
+                    <div class="form-group">
+                        <input type="text" class="form-control" id="tblCustomerSearchID" placeholder="Customer ID" />
+                    </div>
+                    <button type="button" class="btn btn-primary" id="btnAddCustomerWiseBonusRate" onclick="return addCustomerWiseBonusRate();">Add</button>
+                </form>
+            </div>
+            <div class="col-md-9 col-lg-9">
+                <table class="table table-striped" style="border: 4px solid #d9edf7 !important;">
+                    <caption class="bg-info" style="margin: 0 !important; padding-top: 0px !important; padding-bottom: 0px !important;padding-left: 3px;"><h4>Customer list with bonus rate</h4></caption>
+                    <thead>
+                        <tr>
+                            <th hidden>ID</th>
+                            <th>Customer ID</th>
+                            <th>Name</th>
+                            <th>Bonus Rate</th>
+                            <th>Bonus Rate</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody class="tbody" id="tbody">
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Update Customer Wise Bonus Rate Modal -->
+<div class="modal fade" id="EditCustomerwiseBonusRateModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+            <div class="modal-header bg-info">
+                <button type="button" class="btn btn-danger close" data-dismiss="modal" aria-hidden="true">X</button>
+                <h4 class="modal-title">Update Customer Wise Bonus Rate</h4>
+            </div>
+            <div class="modal-body">
+                <div style="padding:10px;" class="row">
+                    <div class="col-md-12" style="margin-left:20px;">
+                        <form>
+                            <div hidden class="form-group">
+                                <label for="tblColumnId" class="tblColumnId">ID</label>
+                                <input type="text" class="form-control" id="tblColumnId" placeholder="Id" disabled="disabled" />
+                            </div>
+                            <div class="form-group">
+                                <label for="CustomerID">Bonus Rate</label>
+                                <input type="number" class="form-control" id="tblBonusRate" placeholder="Bonus Rate" />
+                            </div>
+                            <div class="form-group">
+                                <label for="CustomerName">Bonus Date</label>
+                                <input type="date" class="form-control" id="tblBonusDate" placeholder="Bonus Date" required />
+                            </div>
+                            <button type="button" class="btn btn-primary" id="btnUpdate" data-dismiss="modal" onclick="return updateCustomerWiseBonusRate();">Update</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<link href="~/Content/themes/base/jquery-ui.css" rel="stylesheet" />
+@*<link href="https://code.jquery.com/ui/1.10.2/themes/smoothness/jquery-ui.css" rel="Stylesheet" />*@
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+@*<script src="https://code.jquery.com/ui/1.10.2/jquery-ui.js"></script>*@
+<script src="~/Scripts/jquery-ui-1.12.1.js"></script>
+<script src="~/Scripts/customer-wise-bonus-rate.js"></script>
+
+

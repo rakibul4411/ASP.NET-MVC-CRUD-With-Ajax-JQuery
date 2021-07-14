@@ -1,0 +1,49 @@
+﻿<div class="container">
+    <div class="row">
+        <div class="col-md-12 col-lg-12">
+            <div class="col-md-12 col-lg-12">
+                <h3>Customer Information</h3>
+            </div>
+            <div class="col-md-6 col-lg-6">
+                <form>
+                    <div class="form-group">
+                        <label for="tblColumnId" class="tblcusrowID">ID</label>
+                        <input type="text" class="form-control" id="tblColumnId" placeholder="Id" disabled="disabled" />
+                    </div>
+                    <div class="form-group">
+                        <label for="CustomerID">Customer ID</label>
+                        <input type="text" class="form-control" id="tblCustomerID" placeholder="Customer ID" onchange="CheckCustomerID()" required />
+                    </div>
+                    <div class="form-group">
+                        <label for="CustomerName">Name</label>
+                        <input type="text" class="form-control" id="tblCustomerName" placeholder="Name" required />
+                    </div>
+                    <button type="button" class="btn btn-primary" id="btnAdd" onclick="return Add();">Add Customer</button>
+                    <button type="button" class="btn btn-primary" id="btnUpdate" style="display:none;" onclick="Update();">Update</button>
+                </form>
+            </div>
+            <div class="col-md-6 col-lg-6">
+                <table class="table table-striped" style="border: 2px solid #d9edf7 !important;">
+                    <caption class="bg-info" style="margin: 0 !important; padding-top: 0px !important; padding-bottom: 0px !important;padding-left: 3px;"><h4>Customer List</h4></caption>
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Customer ID</th>
+                            <th>Name</th>
+                            <th>Actions</th>
+                        </tr>
+                    </thead>
+                    <tbody class="tbody">
+                    </tbody>
+                </table>
+                <button type="button" class="btn btn-primary" id="btnAdd" onclick="return transferCustomerData();">Transfer Customer Data</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+<script src="~/Scripts/jquery-3.4.1.min.js"></script>
+<script src="~/Scripts/default.js"></script>

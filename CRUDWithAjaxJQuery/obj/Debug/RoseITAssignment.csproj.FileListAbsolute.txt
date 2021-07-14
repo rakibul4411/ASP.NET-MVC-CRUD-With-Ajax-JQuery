@@ -1,0 +1,167 @@
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\CRUDAppJS\obj\Debug\RoseITAssignment.csproj.CoreCompileInputs.cache
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\obj\Debug\RoseITAssignment.csprojAssemblyReference.cache
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\obj\Debug\RoseITAssignment.csproj.CoreCompileInputs.cache
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\csc.exe
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\csc.exe.config
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\csc.rsp
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\csi.exe
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\csi.exe.config
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\csi.rsp
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.AppContext.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.Collections.Immutable.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.Console.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.Globalization.Calendars.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.IO.Compression.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.IO.FileSystem.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.Net.Http.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.Net.Sockets.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.ValueTuple.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.Xml.XPath.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\vbc.exe
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\vbc.exe.config
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\vbc.rsp
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\VBCSCompiler.exe
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\roslyn\VBCSCompiler.exe.config
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\Antlr3.Runtime.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\EntityFramework.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\EntityFramework.SqlServer.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\Microsoft.Web.Infrastructure.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\Newtonsoft.Json.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\System.Web.Helpers.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\System.Web.Mvc.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\System.Web.Optimization.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\System.Web.Razor.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\System.Web.WebPages.Deployment.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\System.Web.WebPages.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\System.Web.WebPages.Razor.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\WebGrease.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\EntityFramework.xml
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\EntityFramework.SqlServer.xml
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\System.Web.Helpers.xml
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\System.Web.Mvc.xml
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\System.Web.Optimization.xml
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\System.Web.Razor.xml
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\System.Web.WebPages.xml
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\System.Web.WebPages.Deployment.xml
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\System.Web.WebPages.Razor.xml
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\Newtonsoft.Json.xml
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\Antlr3.Runtime.pdb
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\obj\Debug\RoseITAssignment.csproj.CopyComplete
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\RoseITAssignment.dll.config
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\RoseITAssignment.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\bin\RoseITAssignment.pdb
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\obj\Debug\RoseITAssignment.dll
+D:\ASSIGNMENT\ASSIGNMENT FOR VIVA\RoseITAssignment\obj\Debug\RoseITAssignment.pdb
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\RoseITAssignment.dll.config
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\RoseITAssignment.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\RoseITAssignment.pdb
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\csc.exe
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\csc.exe.config
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\csc.rsp
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\csi.exe
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\csi.exe.config
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\csi.rsp
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\Microsoft.Managed.Core.targets
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.AppContext.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.Collections.Immutable.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.Console.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.Globalization.Calendars.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.IO.Compression.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.IO.FileSystem.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.Net.Http.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.Net.Sockets.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.Reflection.Metadata.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.ValueTuple.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.Xml.XmlDocument.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.Xml.XPath.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\vbc.exe
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\vbc.exe.config
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\vbc.rsp
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\VBCSCompiler.exe
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\roslyn\VBCSCompiler.exe.config
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\Antlr3.Runtime.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\EntityFramework.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\EntityFramework.SqlServer.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\Microsoft.Web.Infrastructure.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\Newtonsoft.Json.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\System.Web.Helpers.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\System.Web.Mvc.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\System.Web.Optimization.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\System.Web.Razor.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\System.Web.WebPages.Deployment.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\System.Web.WebPages.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\System.Web.WebPages.Razor.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\WebGrease.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\EntityFramework.xml
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\EntityFramework.SqlServer.xml
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\System.Web.Helpers.xml
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\System.Web.Mvc.xml
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\System.Web.Optimization.xml
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\System.Web.Razor.xml
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\System.Web.WebPages.xml
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\System.Web.WebPages.Deployment.xml
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\System.Web.WebPages.Razor.xml
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\Newtonsoft.Json.xml
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\Antlr3.Runtime.pdb
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\obj\Debug\RoseITAssignment.csprojAssemblyReference.cache
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\obj\Debug\RoseITAssignment.csproj.CoreCompileInputs.cache
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\obj\Debug\RoseITAssignment.csproj.CopyComplete
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\obj\Debug\RoseITAssignment.dll
+D:\ASSIGNMENT\Rose IT Assignment With Ajax-JQuery\RoseITAssignment\obj\Debug\RoseITAssignment.pdb
